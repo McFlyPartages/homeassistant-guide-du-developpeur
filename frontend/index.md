@@ -1,4 +1,6 @@
-# Le Frontend
+---
+title : Le Frontend
+---
 
 ## Compétences
 

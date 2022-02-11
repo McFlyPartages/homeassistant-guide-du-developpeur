@@ -1,13 +1,6 @@
 ---
 title : Home Assistant - Guide du développeur
 ---
-
-- [La boîte à outils](#La-Boîte-à-outils)
-- [Participer aux projets](#Participer-aux-projets)
-- [Les environnements](#Les-environnements) (Le backend et le frontend)
-- [Préparer son environnement](#Préparer-son-environnement)
-- [Les ressources](#Les-ressources)
-
 ## Présentation
 
 Ce guide a pour vocation de présenter le développement de composants de Home Assistant.
@@ -43,7 +36,7 @@ Avant de présenter plus en avant le développement sous Home Assistant, nous al
 
 Si vous êtes familier avec GitHub, vous pouvez passer ce chapitre. Pour les autres ...
 
-- [Travailler avec GitHub](./GitHub.md)
+- [Travailler avec GitHub](github)
 
 ## Les environnements
 
@@ -54,9 +47,9 @@ Il y a deux environnements distincts :
 
 Suivant ce que vous allez travailler, vous n'aurez pas besoin des mêmes langages, compétences et ressources.
 
-- [Développer en backend](./Backend.md)
+- [Développer en backend](backend)
 
-- [Développer en frontend](./Frontend.md)
+- [Développer en frontend](frontend)
 
 ## Les ressources
 
