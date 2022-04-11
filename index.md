@@ -9,7 +9,11 @@ type: guidedev # Types existant : pages; news; awesome; guidedev; etc. Laisser v
 description: "Ce guide permet de vous familiariser avec le developpement sur Home Assistant. Il a était mis en place par la communauté Francophone autour de Home Assistant dans le but d'avoir un guide en francais et un lieu de developpement francophone. Il se veut evolutif et participatif. " # Description du sujet.
 # hero: /path/image.ext # Recherche un fichier hero.(webp;jpg;png;svg) a la racine du dossier OU si un hero est defini ici SINON il prend un hero par defaut.
 
-author:
+# Simple ou multi auteurs, il faut remplir l'auteur principal.
+author: 
+
+# Recherche par auteurs et si multi auteurs.
+authors:
 
 #socialshare: true # Active l'option de partage
 article_ha: false # Ajoute les boutton du forum et les medias des deux communautés Home Assistant (Off et HACF)
